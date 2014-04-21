@@ -1,0 +1,3 @@
+* Mon Jan 06 2014 Thomas Perl <thomas.perl@jollamobile.com> - 2.0.0-nemo4
+- [nemo] Regenerate configure scripts with automake 1.11
+- [nemo] RPM packaging of SDL2_image (upstream 2.0.0)
